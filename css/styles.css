@@ -1,0 +1,25 @@
+body{
+    font-size: larger;
+    font-family: Arial, sans-serif;
+}
+.box{
+    background-color: powderblue;
+    color: rgb(27, 27, 27);
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    margin: 10px 0px;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    margin: 10px auto;
+}
+
+.rectangle{
+    width: 100%;
+    height: 200px;
+    margin: 10px auto;
+}
+
